@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomAlertDialogTutorial</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_label">Login</string>
+    <string name="success_login_msg">Login successful</string>
+    <string name="error_login_msg">Please fill any empty fields</string>
+</resources>
